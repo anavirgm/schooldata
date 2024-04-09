@@ -4,7 +4,7 @@
 
 3 - Instale las librerías necesarias ubicadas en la carpeta "lib" en caso de que no las tenga instaladas.
 
-4 - Abra el archivo MAIN.java con su editor de código favorito y configure solamente los datos del servidor (en la funcion ConexionBDD) en caso de que le haya colocado cualquier nombre a la base de datos. El archivo se encuentra en la carpeta “Frames”.
+4 - Abra el archivo MAIN.java que se encuentra en la carpeta “Frames”, con su editor de código favorito y configure solamente los datos del servidor (en la funcion ConexionBDD) en caso de que le haya colocado cualquier nombre a la base de datos.
 
 5 - Para mayor facilidad es recomendable que cambie la ruta del archivo Utiles.java a la carpeta "Utiles"  para mayor rapidez al momento de buscar una imagen para su útil escolar.
 
