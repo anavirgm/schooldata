@@ -1,0 +1,10 @@
+1 - Copie o mueva la carpeta COBRANZASBDD a su servidor local o remoto
+
+2 - Cree una base de datos en MYSQL con el nombre de su preferencia y/o si no desea hacer ningún cambio al código, nombrelo "cobranzascg", selecciónela e importe la base de datos del sistema con phpmyadmin u otro gestor grafico de MYSQL que utilice, la base de datos se encuentra en la carpeta BD.
+
+3 - Abra el archivo MAIN.java con su editor de código favorito y configure solamente los datos del servidor (en la funcion ConexionBDD) en caso de que le haya colocado cualquier nombre a la base de datos. El archivo se encuentra en la carpeta “Frames”
+
+4 - Para mayor facilidad es recomendable que cambie la ruta del archivo Utiles.java a la carpeta "Utiles"  para mayor rapidez al momento de buscar una imágen para su útil escolar
+
+4 - Administrador:
+    Clave: $$$$
